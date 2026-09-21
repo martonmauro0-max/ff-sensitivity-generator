@@ -1,0 +1,15 @@
+[
+  {"brand":"Google","model":"Pixel 6","ram":"8 GB","processor":"Google Tensor","refresh_rate":90,"fps":60,"recommended_dpi":450},
+  {"brand":"Google","model":"Pixel 6 Pro","ram":"12 GB","processor":"Google Tensor","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Google","model":"Pixel 7","ram":"8 GB","processor":"Google Tensor G2","refresh_rate":90,"fps":60,"recommended_dpi":450},
+  {"brand":"Google","model":"Pixel 7 Pro","ram":"12 GB","processor":"Google Tensor G2","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Google","model":"Pixel 8","ram":"8 GB","processor":"Google Tensor G3","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Google","model":"Pixel 8 Pro","ram":"12 GB","processor":"Google Tensor G3","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Google","model":"Pixel 9","ram":"12 GB","processor":"Google Tensor G4","refresh_rate":120,"fps":90,"recommended_dpi":500},
+  {"brand":"Google","model":"Pixel 9 Pro","ram":"16 GB","processor":"Google Tensor G4","refresh_rate":120,"fps":120,"recommended_dpi":500},
+  {"brand":"Google","model":"Pixel 9 Pro XL","ram":"16 GB","processor":"Google Tensor G4","refresh_rate":120,"fps":120,"recommended_dpi":500},
+  {"brand":"Google","model":"Pixel 9 Pro Fold","ram":"16 GB","processor":"Google Tensor G4","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Google","model":"Pixel 10","ram":"12 GB","processor":"Google Tensor G5","refresh_rate":120,"fps":120,"recommended_dpi":500},
+  {"brand":"Google","model":"Pixel 10 Pro","ram":"16 GB","processor":"Google Tensor G5","refresh_rate":120,"fps":120,"recommended_dpi":500},
+  {"brand":"Google","model":"Pixel 10 Pro XL","ram":"16 GB","processor":"Google Tensor G5","refresh_rate":120,"fps":120,"recommended_dpi":500}
+]

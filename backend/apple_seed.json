@@ -1,0 +1,17 @@
+[
+  {"brand":"Apple","model":"iPhone 11","ram":"4 GB","processor":"A13 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 11 Pro","ram":"4 GB","processor":"A13 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 11 Pro Max","ram":"4 GB","processor":"A13 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 12","ram":"4 GB","processor":"A14 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 12 Pro","ram":"6 GB","processor":"A14 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 12 Pro Max","ram":"6 GB","processor":"A14 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 13","ram":"4 GB","processor":"A15 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Apple","model":"iPhone 13 Pro","ram":"6 GB","processor":"A15 Bionic","refresh_rate":120,"fps":120,"recommended_dpi":450},
+  {"brand":"Apple","model":"iPhone 13 Pro Max","ram":"6 GB","processor":"A15 Bionic","refresh_rate":120,"fps":120,"recommended_dpi":450},
+  {"brand":"Apple","model":"iPhone 14","ram":"6 GB","processor":"A15 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":430},
+  {"brand":"Apple","model":"iPhone 14 Pro","ram":"6 GB","processor":"A16 Bionic","refresh_rate":120,"fps":120,"recommended_dpi":450},
+  {"brand":"Apple","model":"iPhone 14 Pro Max","ram":"6 GB","processor":"A16 Bionic","refresh_rate":120,"fps":120,"recommended_dpi":450},
+  {"brand":"Apple","model":"iPhone 15","ram":"6 GB","processor":"A16 Bionic","refresh_rate":60,"fps":60,"recommended_dpi":430},
+  {"brand":"Apple","model":"iPhone 15 Pro","ram":"8 GB","processor":"A17 Pro","refresh_rate":120,"fps":120,"recommended_dpi":450},
+  {"brand":"Apple","model":"iPhone 15 Pro Max","ram":"8 GB","processor":"A17 Pro","refresh_rate":120,"fps":120,"recommended_dpi":450}
+]

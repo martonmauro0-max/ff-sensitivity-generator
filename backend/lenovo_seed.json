@@ -1,0 +1,9 @@
+[
+  {"brand":"Lenovo","model":"Legion Phone Duel","ram":"12/16 GB","processor":"Snapdragon 865+","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Lenovo","model":"Legion Phone Duel 2","ram":"12/16/18 GB","processor":"Snapdragon 888","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Lenovo","model":"Legion Y70","ram":"8/12/16 GB","processor":"Snapdragon 8+ Gen 1","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Lenovo","model":"Legion Y90","ram":"12/16/18 GB","processor":"Snapdragon 8 Gen 1","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Lenovo","model":"Legion Y700","ram":"8/12/16 GB","processor":"Snapdragon 8+ Gen 1","refresh_rate":120,"fps":120,"recommended_dpi":500},
+  {"brand":"Lenovo","model":"Legion Y900","ram":"12/16 GB","processor":"Dimensity 9000","refresh_rate":165,"fps":120,"recommended_dpi":520},
+  {"brand":"Lenovo","model":"Legion Tab","ram":"12/16 GB","processor":"Snapdragon 8 Gen 3","refresh_rate":165,"fps":120,"recommended_dpi":520}
+]

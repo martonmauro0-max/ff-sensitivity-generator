@@ -1,0 +1,21 @@
+[
+  {"brand":"Nokia","model":"Nokia 5.3","ram":"3/4 GB","processor":"Snapdragon 665","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Nokia","model":"Nokia 5.4","ram":"4/6 GB","processor":"Snapdragon 662","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Nokia","model":"Nokia 6.2","ram":"3/4 GB","processor":"Snapdragon 636","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Nokia","model":"Nokia 7.2","ram":"4/6 GB","processor":"Snapdragon 660","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Nokia","model":"Nokia 8.1","ram":"4/6 GB","processor":"Snapdragon 710","refresh_rate":60,"fps":60,"recommended_dpi":430},
+  {"brand":"Nokia","model":"Nokia 8.3 5G","ram":"6/8 GB","processor":"Snapdragon 765G","refresh_rate":60,"fps":60,"recommended_dpi":440},
+  {"brand":"Nokia","model":"Nokia 2.4","ram":"2/3 GB","processor":"MediaTek Helio P22","refresh_rate":60,"fps":30,"recommended_dpi":400},
+  {"brand":"Nokia","model":"Nokia 3.4","ram":"3/4 GB","processor":"Snapdragon 460","refresh_rate":60,"fps":60,"recommended_dpi":410},
+  {"brand":"Nokia","model":"Nokia 5.4","ram":"4/6 GB","processor":"Snapdragon 662","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Nokia","model":"Nokia G10","ram":"3/4 GB","processor":"MediaTek Helio G25","refresh_rate":60,"fps":60,"recommended_dpi":410},
+  {"brand":"Nokia","model":"Nokia G20","ram":"4/6 GB","processor":"MediaTek Helio G35","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Nokia","model":"Nokia G21","ram":"4/6 GB","processor":"Unisoc T606","refresh_rate":90,"fps":60,"recommended_dpi":440},
+  {"brand":"Nokia","model":"Nokia G22","ram":"4/6 GB","processor":"Unisoc T606","refresh_rate":90,"fps":60,"recommended_dpi":440},
+  {"brand":"Nokia","model":"Nokia G42 5G","ram":"4/6 GB","processor":"Snapdragon 480+ 5G","refresh_rate":90,"fps":60,"recommended_dpi":450},
+  {"brand":"Nokia","model":"Nokia G50","ram":"4/6 GB","processor":"Snapdragon 480 5G","refresh_rate":60,"fps":60,"recommended_dpi":430},
+  {"brand":"Nokia","model":"Nokia X10","ram":"6/8 GB","processor":"Snapdragon 480 5G","refresh_rate":60,"fps":60,"recommended_dpi":440},
+  {"brand":"Nokia","model":"Nokia X20","ram":"6/8 GB","processor":"Snapdragon 480 5G","refresh_rate":60,"fps":60,"recommended_dpi":440},
+  {"brand":"Nokia","model":"Nokia X30 5G","ram":"6/8 GB","processor":"Snapdragon 695 5G","refresh_rate":90,"fps":60,"recommended_dpi":460},
+  {"brand":"Nokia","model":"Nokia XR20","ram":"6/8 GB","processor":"Snapdragon 480 5G","refresh_rate":60,"fps":60,"recommended_dpi":440}
+]

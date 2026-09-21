@@ -1,0 +1,21 @@
+[
+  {"brand":"Infinix","model":"Hot 10","ram":"4/6 GB","processor":"MediaTek Helio G70","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Infinix","model":"Hot 11","ram":"4 GB","processor":"MediaTek Helio G70","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Infinix","model":"Hot 12","ram":"4/6 GB","processor":"MediaTek Helio G85","refresh_rate":90,"fps":60,"recommended_dpi":440},
+  {"brand":"Infinix","model":"Hot 20","ram":"4/8 GB","processor":"MediaTek Helio G85","refresh_rate":90,"fps":60,"recommended_dpi":440},
+  {"brand":"Infinix","model":"Hot 30","ram":"8 GB","processor":"MediaTek Helio G88","refresh_rate":90,"fps":60,"recommended_dpi":450},
+  {"brand":"Infinix","model":"Hot 40","ram":"8 GB","processor":"MediaTek Helio G88","refresh_rate":90,"fps":60,"recommended_dpi":450},
+  {"brand":"Infinix","model":"Hot 50","ram":"8 GB","processor":"MediaTek Helio G100","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Infinix","model":"Hot 60","ram":"8 GB","processor":"MediaTek Helio G200","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Infinix","model":"Note 10","ram":"4/6/8 GB","processor":"MediaTek Helio G85","refresh_rate":90,"fps":60,"recommended_dpi":440},
+  {"brand":"Infinix","model":"Note 11","ram":"4/6 GB","processor":"MediaTek Helio G88","refresh_rate":60,"fps":60,"recommended_dpi":440},
+  {"brand":"Infinix","model":"Note 12","ram":"6/8 GB","processor":"MediaTek Helio G88","refresh_rate":60,"fps":60,"recommended_dpi":450},
+  {"brand":"Infinix","model":"Note 30","ram":"8 GB","processor":"MediaTek Helio G99","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Infinix","model":"Note 40","ram":"8/12 GB","processor":"MediaTek Helio G99","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Infinix","model":"Note 50","ram":"8/12 GB","processor":"MediaTek Helio G100","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Infinix","model":"GT 10 Pro","ram":"8 GB","processor":"MediaTek Dimensity 8050","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Infinix","model":"GT 20 Pro","ram":"8/12 GB","processor":"MediaTek Dimensity 8200","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Infinix","model":"GT 30 Pro","ram":"8/12 GB","processor":"MediaTek Dimensity 8350","refresh_rate":144,"fps":120,"recommended_dpi":500},
+  {"brand":"Infinix","model":"Zero 20","ram":"8 GB","processor":"MediaTek Helio G99","refresh_rate":90,"fps":60,"recommended_dpi":450},
+  {"brand":"Infinix","model":"Zero 30 5G","ram":"8/12 GB","processor":"MediaTek Dimensity 8020","refresh_rate":144,"fps":120,"recommended_dpi":500}
+]

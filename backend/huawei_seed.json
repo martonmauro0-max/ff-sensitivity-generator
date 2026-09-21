@@ -1,0 +1,15 @@
+[
+  {"brand":"Huawei","model":"P30","ram":"6/8 GB","processor":"Kirin 980","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Huawei","model":"P30 Pro","ram":"8 GB","processor":"Kirin 980","refresh_rate":60,"fps":60,"recommended_dpi":420},
+  {"brand":"Huawei","model":"P40","ram":"8 GB","processor":"Kirin 990","refresh_rate":60,"fps":60,"recommended_dpi":430},
+  {"brand":"Huawei","model":"P40 Pro","ram":"8 GB","processor":"Kirin 990","refresh_rate":90,"fps":90,"recommended_dpi":450},
+  {"brand":"Huawei","model":"P40 Pro+","ram":"8 GB","processor":"Kirin 990","refresh_rate":90,"fps":90,"recommended_dpi":450},
+  {"brand":"Huawei","model":"P50","ram":"8 GB","processor":"Snapdragon 888 4G","refresh_rate":90,"fps":90,"recommended_dpi":450},
+  {"brand":"Huawei","model":"P50 Pro","ram":"8/12 GB","processor":"Snapdragon 888 4G","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Huawei","model":"P60","ram":"8/12 GB","processor":"Snapdragon 8+ Gen 1 4G","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Huawei","model":"P60 Pro","ram":"8/12 GB","processor":"Snapdragon 8+ Gen 1 4G","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Huawei","model":"Mate 40 Pro","ram":"8 GB","processor":"Kirin 9000","refresh_rate":90,"fps":90,"recommended_dpi":450},
+  {"brand":"Huawei","model":"Mate 50 Pro","ram":"8 GB","processor":"Snapdragon 8+ Gen 1 4G","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Huawei","model":"Mate 60 Pro","ram":"12 GB","processor":"Kirin 9000S","refresh_rate":120,"fps":90,"recommended_dpi":480},
+  {"brand":"Huawei","model":"Mate 70 Pro","ram":"12 GB","processor":"Kirin 9020","refresh_rate":120,"fps":120,"recommended_dpi":500}
+]
